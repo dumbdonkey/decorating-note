@@ -14,6 +14,11 @@
 
 ![](electricity-design-demo.png)
 
+## 开关插座的设计
+* 开关插座下沿距地面 30cm 且安装在同一高度，2个开关插座间的间距不超过 5mm。
+* 照明开关距地面 1400mm 左右，距门边 100mm - 200mm。 照明开关建议使用 带灯光示意(夜光)的。
+* 更多，点击[这里](https://m.haohaozhu.cn/blank/0000gy505000bhb7.html?is_share_activity=1&?is_share_activity=1)。
+
 ## 注意事项
 * 方便后期维护
   * 记录水电改造的情况。推荐： 出水电施工图，水电点位图。否则，水电改造完后拍照。
