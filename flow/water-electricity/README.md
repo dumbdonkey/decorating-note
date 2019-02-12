@@ -8,7 +8,7 @@
 * 穿线管是用来保护内部的电线，多用PVC穿线管。
 
 ## 电表箱设计建议
-![](electricity-design.png)
+![](electricity-design-suggestion.png)
 
 别人家的
 
