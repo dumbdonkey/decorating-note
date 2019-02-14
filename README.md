@@ -5,11 +5,13 @@
 * 预算。
 * 设计。
   * [设计图](design/design-pic.md)
+  * 配色
 * 施工图。
 * 选材料。
   * 主材
   * 辅材
 * 施工：
+  * [施工图](flow/work-pic.md)
   * [水电](flow/water-electricity)
   * 木
   * 瓦
